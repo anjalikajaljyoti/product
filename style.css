@@ -13,7 +13,7 @@
 .left-box {
     /* border: 2px solid red; */
     background-color: aqua;
-    background-image: url(../img/img1.png);
+    background-image: url(img2.png);
     background-position: center;
     background-size: cover;
     margin: 20px;
